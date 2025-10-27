@@ -1,0 +1,28 @@
+{
+  "name": "procached",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pro-cache": "./bin/pro_cached.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiiiDev/ProCached.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhiiiDev/ProCached/issues"
+  },
+  "homepage": "https://github.com/AbhiiiDev/ProCached#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "express": "^5.1.0"
+  }
+}
